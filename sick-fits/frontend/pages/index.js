@@ -1,4 +1,3 @@
-export default function Home() {
-  return <div>Welcome to Next.js! test</div>
-  ;
+export default function IndexPage() {
+  return <div>Welcome to Next.js! test</div>;
 }
