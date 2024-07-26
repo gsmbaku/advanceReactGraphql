@@ -1,3 +1,5 @@
-export default function Home() {
-  return <div>Welcome to Next.js!</div>;
+import Products from '../components/products';
+
+export default function OrderPage() {
+  return <Products />;
 }
